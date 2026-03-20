@@ -1,2 +1,3 @@
-# prime-recipe-manager-x0um
-Automated issue comment bot repository
+# Prime Recipe Manager X0Um
+
+Automated issue comment bot repository.
